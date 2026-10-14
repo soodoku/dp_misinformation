@@ -87,3 +87,7 @@ in `data/cache/` are ignored by Git and rebuilt as needed.
 | `scripts/` | Numbered analysis stages, shared configuration, and helpers; see the execution order below |
 | `ms/` | `main.tex`, `references.bib`, and the compiled `main.pdf` |
 | `tests/testthat/` | Reproductions of numbers computed from the original files |
+
+<!-- adjacent:start -->
+
+<!-- adjacent:end -->
